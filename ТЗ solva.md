@@ -9,6 +9,7 @@
 ● Показать текущий путь в терминале.   
 `pwd`
 
+![image](https://github.com/user-attachments/assets/16acd82a-1438-4320-bd5e-e788f1e7f7b8)
 
 
 #  GIt
@@ -21,11 +22,12 @@
 
 ```  
 git init  
-echo ‘Hello Devops” \> test.txt  
+echo 'Hello Devops' > test.txt  
 git add test.txt  
-git commit \-m ‘Initial commit’  
+git commit -m 'Initial commit'
 git log  
 ```  
+![image](https://github.com/user-attachments/assets/635d7d26-28c1-495c-bab8-f559f8673c92)
 
 
 # Сети
@@ -44,7 +46,7 @@ echo {1..10}
 
 Python
 ```
-for x in range(1, 10 \+ 1):  
+for x in range(1, 10 + 1):  
    print(x)
 ```
 
