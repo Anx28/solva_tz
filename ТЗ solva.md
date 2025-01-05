@@ -3,9 +3,9 @@
 # Linux
 
 ● Создание директории devops\_test в домашнем каталоге.   
-`mkdir \~/devops\_test`  
+`mkdir ~/devops_test`  
 ● Создание пустого файла readme.txt в созданной директории.   
-`touch \~/devops\_test/readme.txt `  
+`touch ~/devops_test/readme.txt `  
 ● Показать текущий путь в терминале.   
 `pwd`
 
